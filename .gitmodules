@@ -12,3 +12,8 @@
 	path = shopinvader/odoo-shopinvader
 	url = git@github.com:shopinvader/odoo-shopinvader.git
 	branch = 12.0
+
+[submodule "akretion/account-move-import"]
+	path = akretion/account-move-import
+	url = git@github.com:akretion/account-move-import.git
+	branch = 12.0
