@@ -2,3 +2,8 @@
 	path = odoomates/odooapps
 	url = git@github.com:odoomates/odooapps.git
 	branch = 12.0
+
+[submodule "akretion/odoo-usability"]
+	path = akretion/odoo-usability
+	url = git@github.com:akretion/odoo-usability.git
+	branch = 12.0
