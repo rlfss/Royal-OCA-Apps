@@ -1,0 +1,4 @@
+[submodule "rlfss/Royal-OCA-Apps"]
+	path = rlfss/Royal-OCA-Apps
+	url = git@github.com:rlfss/Royal-OCA-Apps.git
+	branch = Prod
