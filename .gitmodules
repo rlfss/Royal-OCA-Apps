@@ -2,3 +2,8 @@
 	path = OCA/Royal-OCA-Apps
 	url = git@github.com:rlfss/royal2020.git
 	branch = Master2
+
+[submodule "OCA/connector-interfaces"]
+	path = OCA/connector-interfaces
+	url = git@github.com:OCA/connector-interfaces.git
+	branch = 12.0
