@@ -7,3 +7,8 @@
 	path = akretion/odoo-usability
 	url = git@github.com:akretion/odoo-usability.git
 	branch = 12.0
+
+[submodule "shopinvader/odoo-shopinvader"]
+	path = shopinvader/odoo-shopinvader
+	url = git@github.com:shopinvader/odoo-shopinvader.git
+	branch = 12.0
