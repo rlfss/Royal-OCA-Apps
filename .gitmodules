@@ -1,0 +1,4 @@
+[submodule "OCA/Royal-OCA-Apps"]
+	path = OCA/Royal-OCA-Apps
+	url = git@github.com:rlfss/royal2020.git
+	branch = Master2
